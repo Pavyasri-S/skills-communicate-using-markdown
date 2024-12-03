@@ -4,8 +4,6 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
+### The below is an image of Yaktocat
 
-
-
-
-I have created the header messages
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
